@@ -64,7 +64,6 @@ class TopSitesDataAdaptorImplementation: TopSitesDataAdaptor, FeatureFlaggable, 
         self.contileProvider = contileProvider
         self.notificationCenter = notificationCenter
         self.dispatchGroup = dispatchGroup
-        topSiteHistoryManager.delegate = self
 
         setupNotifications(forObserver: self,
                            observing: [.FirefoxAccountChanged,
