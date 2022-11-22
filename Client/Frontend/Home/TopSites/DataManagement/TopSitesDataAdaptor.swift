@@ -64,6 +64,7 @@ class TopSitesDataAdaptorImplementation: TopSitesDataAdaptor, FeatureFlaggable, 
         self.contileProvider = contileProvider
         self.notificationCenter = notificationCenter
         self.dispatchGroup = dispatchGroup
+        topSiteHistoryManager.delegate = self
 
         setupNotifications(forObserver: self,
                            observing: [.FirefoxAccountChanged,
@@ -283,7 +284,6 @@ extension TopSitesDataAdaptorImplementation: Notifiable, Loggable {
                 .PrivateDataClearedHistory,
                 .FirefoxAccountChanged,
                 .TopSitesUpdated:
-            Logger.browserLogger.info("[DEBUG]: Refreshing top sites!")
             self.didInvalidateDataSource(forceRefresh: true)
         default:
             browserLog.warning("Received unexpected notification \(notification.name)")

@@ -71,7 +71,8 @@ class FaviconDownloadError: MaybeErrorType {
     }
 }
 
-extension SQLiteHistory: Favicons {
+extension BrowserDBSQLite: Favicons {
+
     public func getFaviconImage(forSite site: Site) -> Deferred<Maybe<UIImage>> {
         // First, attempt to lookup the favicon from our bundled top sites.
         return getTopSitesFaviconImage(forSite: site).bind { result in
@@ -86,7 +87,7 @@ extension SQLiteHistory: Favicons {
                         return self.generateDefaultFaviconImage(forSite: site)
                     }
                     // Try to get the favicon from the URL scraped from the web page.
-                    return self.retrieveTopSiteSQLiteHistoryFaviconImage(faviconURL: faviconURL).bind { result in
+                    return self.retrieveTopSiteSQLiteFaviconImage(faviconURL: faviconURL).bind { result in
                         // If the favicon could not be downloaded, use the generated "default" favicon.
                         guard let image = result.successValue else {
                             return self.generateDefaultFaviconImage(forSite: site)
@@ -102,7 +103,7 @@ extension SQLiteHistory: Favicons {
     }
 
     // Downloads a favicon image from the web or retrieves it from the cache.
-    fileprivate func retrieveTopSiteSQLiteHistoryFaviconImage(faviconURL: URL) -> Deferred<Maybe<UIImage>> {
+    fileprivate func retrieveTopSiteSQLiteFaviconImage(faviconURL: URL) -> Deferred<Maybe<UIImage>> {
         let deferred = CancellableDeferred<Maybe<UIImage>>()
 
         ImageLoadingHandler.shared.getImageFromCacheOrDownload(with: faviconURL,
