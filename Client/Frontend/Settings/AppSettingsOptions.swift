@@ -809,7 +809,7 @@ class SendAnonymousUsageDataSetting: BoolSetting {
         super.init(
             prefs: prefs,
             prefKey: AppConstants.PrefSendUsageData,
-            defaultValue: true,
+            defaultValue: false,
             attributedTitleText: NSAttributedString(string: .SendUsageSettingTitle),
             attributedStatusText: statusText,
             settingDidChange: {
@@ -820,7 +820,7 @@ class SendAnonymousUsageDataSetting: BoolSetting {
         )
         // We make sure to set this on initialization, in case the setting is turned off
         // in which case, we would to make sure that users are opted out of experiments
-        Experiments.setTelemetrySetting(prefs.boolForKey(AppConstants.PrefSendUsageData) ?? true)
+        Experiments.setTelemetrySetting(prefs.boolForKey(AppConstants.PrefSendUsageData) ?? false)
     }
 
     override var accessibilityIdentifier: String? { return "SendAnonymousUsageData" }
@@ -844,7 +844,7 @@ class StudiesToggleSetting: BoolSetting {
         super.init(
             prefs: prefs,
             prefKey: AppConstants.PrefStudiesToggle,
-            defaultValue: true,
+            defaultValue: false,
             attributedTitleText: NSAttributedString(string: .SettingsStudiesToggleTitle),
             attributedStatusText: statusText,
             settingDidChange: {

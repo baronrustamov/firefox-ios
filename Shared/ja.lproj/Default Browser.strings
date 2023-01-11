@@ -8,7 +8,7 @@
 "DefaultBrowserCard.Button.v2" = "手順を見る";
 
 /* Description for small home tab banner shown that allows user to switch their default browser to Firefox. */
-"DefaultBrowserCard.Description" = "ウェブサイト、メール、メッセージのリンクを自動的に Firefox で開くように設定します。";
+"DefaultBrowserCard.Description" = "ウェブサイト、メール、メッセージのリンクを自動的に Portal で開くように設定します。";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Description.v108" = "速さと安全性、プライバシー保護を自動化するには、Firefox をデフォルトウェブブラウザーに選んでください。";
@@ -35,11 +35,11 @@
 "DefaultBrowserOnboarding.Description2" = "2. デフォルトブラウザーアプリをタップ";
 
 /* Description for default browser onboarding card. */
-"DefaultBrowserOnboarding.Description3" = "3. Firefox を選択してください";
+"DefaultBrowserOnboarding.Description3" = "3. Portal を選択してください";
 
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "デフォルトブラウザーアプリ";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "デフォルトブラウザーに設定";
 

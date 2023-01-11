@@ -22,6 +22,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Standart brauzer ilovasi";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Standart brauzer sifatida sozlang";
 

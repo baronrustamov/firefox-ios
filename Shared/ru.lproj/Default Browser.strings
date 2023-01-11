@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "Выбор Firefox в качестве браузера по умолчанию — это голосование за открытый и доступный Интернет.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "Выбор Portal в качестве браузера по умолчанию — это голосование за открытый и доступный Интернет.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "Перейдите на лучший интернет";
@@ -11,7 +11,7 @@
 "DefaultBrowserCard.Description" = "Настройте автоматическое открытие ссылок с веб-сайтов, из электронных писем и «Сообщений» в Firefox.";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.NextLevel.Description.v108" = "Выберите Firefox в качестве браузера по умолчанию, чтобы получить скорость, безопасность и конфиденциальность.";
+"DefaultBrowserCard.NextLevel.Description.v108" = "Выберите Portal в качестве браузера по умолчанию, чтобы получить скорость, безопасность и конфиденциальность.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Title.v108" = "Улучшите ежедневный просмотр";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Приложение браузера по умолчанию";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Установить браузером по умолчанию";
 

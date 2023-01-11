@@ -13,6 +13,6 @@
 /* Description for default browser onboarding card. */
 "DefaultBrowserOnboarding.Description3" = "3. Esbilla Firefox";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Predeterminar el restolador";
 

@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "הפיכת Firefox לדפדפן ברירת המחדל שלך היא הצבעה בעד אינטרנט פתוח ונגיש.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "הפיכת Portal לדפדפן ברירת המחדל שלך היא הצבעה בעד אינטרנט פתוח ונגיש.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "לעבור לאינטרנט טוב יותר כברירת מחדל";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "יישומון דפדפן ברירת המחדל";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "הגדרה כדפדפן ברירת המחדל";
 

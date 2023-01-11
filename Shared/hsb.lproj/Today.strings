@@ -4,7 +4,7 @@
 /* Close Private Tabs */
 "TodayWidget.ClosePrivateTabsLabelV2" = "Priwatne rajtarki začinić";
 
-/* Description for medium size widget to add Firefox Shortcut to home screen */
+/* Description for medium size widget to add Portal Shortcut to home screen */
 "TodayWidget.FirefoxShortcutGalleryDescription" = "Přidajće swojej startowej wobrazowce zwjazanja Firefox";
 
 /* Go to link pasted on the clipboard */
@@ -22,7 +22,7 @@
 /* Label that is shown when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.NoOpenTabsLabel" = "Žane wočinjene rajtarki";
 
-/* Open Firefox when there are no tabs opened in tab tray i.e. Empty State */
+/* Open Portal when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.OpenFirefoxLabel" = "Firefox wočinić";
 
 /* Open New Private Tab button label */
@@ -34,7 +34,7 @@
 /* Quick Actions title when widget enters edit mode */
 "TodayWidget.QuickActionsGalleryTitle" = "Spěšne akcije";
 
-/* Firefox shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
+/* Portal shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
 "TodayWidget.QuickActionsGalleryTitleV2" = "Zwjazanja Firefox";
 
 /* Description for Quick View widget in Gallery View where user can add it to home screen */
@@ -43,18 +43,18 @@
 /* Title for Quick View widget in Gallery View where user can add it to home screen */
 "TodayWidget.QuickViewGalleryTitle" = "Spěšny napohlad";
 
-/* Search in Firefox. Do not translate the word Firefox */
-"TodayWidget.SearchInFirefoxV2" = "W Firefox pytać";
+/* Search in Firefox. Do not translate the word Portal */
+"TodayWidget.SearchInFirefoxV2" = "W Portal pytać";
 
 /* Search in private tab */
 "TodayWidget.SearchInPrivateTabLabelV2" = "W priwatnym rajtarku pytać";
 
-/* Description for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Description for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryDescription" = "Přidajće husto a njedawno wopytanym sydłam zwjazanja.";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitle" = "Najhusćišo wopytane sydła";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitleV2" = "Zwjazanja websydłow";
 

@@ -4,6 +4,6 @@
 /* Title for small home tab banner shown that allows user to switch their default browser to Firefox. */
 "DefaultBrowserCard.Title" = "သင်၏ပုံမှန် Browser ကိုပြောင်းပါ";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "ပုံသေဘရောက်ဇာ အဖြစ်သတ်မှတ်မည်";
 

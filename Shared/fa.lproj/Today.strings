@@ -4,7 +4,7 @@
 /* Close Private Tabs */
 "TodayWidget.ClosePrivateTabsLabelV2" = "بستن زبانه‌های خصوصی";
 
-/* Description for medium size widget to add Firefox Shortcut to home screen */
+/* Description for medium size widget to add Portal Shortcut to home screen */
 "TodayWidget.FirefoxShortcutGalleryDescription" = "میان‌برهای فایرفاکس را به صفحه خانگی خود اضافه کنید.";
 
 /* Go to link pasted on the clipboard */
@@ -22,19 +22,19 @@
 /* Label that is shown when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.NoOpenTabsLabel" = "زبانه‌ی بازی وجود ندارد.";
 
-/* Open Firefox when there are no tabs opened in tab tray i.e. Empty State */
+/* Open Portal when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.OpenFirefoxLabel" = "بازکردن فایرفاکس";
 
 /* Open New Private Tab button label */
 "TodayWidget.PrivateTabButtonLabelV1" = "جست‌و‌جوی خصوصی";
 
 /* Description for small size widget to add it to home screen */
-"TodayWidget.QuickActionGalleryDescription" = "یک میانبر Firefox به صفحه اصلی خود اضافه کنید. پس از افزودن ابزارک ، آن را لمس کنید و نگه دارید تا ویرایش شود و یک میانبر دیگر انتخاب کنید.";
+"TodayWidget.QuickActionGalleryDescription" = "یک میانبر Portal به صفحه اصلی خود اضافه کنید. پس از افزودن ابزارک ، آن را لمس کنید و نگه دارید تا ویرایش شود و یک میانبر دیگر انتخاب کنید.";
 
 /* Quick Actions title when widget enters edit mode */
 "TodayWidget.QuickActionsGalleryTitle" = "اقدامات سریع";
 
-/* Firefox shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
+/* Portal shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
 "TodayWidget.QuickActionsGalleryTitleV2" = "میانبرهای فایرفاکس";
 
 /* Description for Quick View widget in Gallery View where user can add it to home screen */
@@ -43,15 +43,15 @@
 /* Title for Quick View widget in Gallery View where user can add it to home screen */
 "TodayWidget.QuickViewGalleryTitle" = "مشاهده سریع";
 
-/* Search in Firefox. Do not translate the word Firefox */
+/* Search in Firefox. Do not translate the word Portal */
 "TodayWidget.SearchInFirefoxV2" = "جست‌وجو در فایرفاکس";
 
 /* Search in private tab */
 "TodayWidget.SearchInPrivateTabLabelV2" = "جست‌وجو در زبانه‌ی خصوصی";
 
-/* Description for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Description for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryDescription" = "میانبرهایی را به سایتهای مکرر و اخیرا بازدید شده اضافه کنید.";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitle" = "سایت‌های برتر";
 

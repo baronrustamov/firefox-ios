@@ -4,8 +4,8 @@
 /* Close Private Tabs */
 "TodayWidget.ClosePrivateTabsLabelV2" = "Fermer les onglets privés";
 
-/* Description for medium size widget to add Firefox Shortcut to home screen */
-"TodayWidget.FirefoxShortcutGalleryDescription" = "Ajoutez des raccourcis Firefox à votre écran d’accueil.";
+/* Description for medium size widget to add Portal Shortcut to home screen */
+"TodayWidget.FirefoxShortcutGalleryDescription" = "Ajoutez des raccourcis Portal à votre écran d’accueil.";
 
 /* Go to link pasted on the clipboard */
 "TodayWidget.GoToCopiedLinkLabelV1" = "Ouvrir le lien copié";
@@ -22,19 +22,19 @@
 /* Label that is shown when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.NoOpenTabsLabel" = "Aucun onglet ouvert.";
 
-/* Open Firefox when there are no tabs opened in tab tray i.e. Empty State */
+/* Open Portal when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.OpenFirefoxLabel" = "Ouvrir Firefox";
 
 /* Open New Private Tab button label */
 "TodayWidget.PrivateTabButtonLabelV1" = "Recherche privée";
 
 /* Description for small size widget to add it to home screen */
-"TodayWidget.QuickActionGalleryDescription" = "Ajoutez un raccourci Firefox à votre écran d’accueil. Après avoir ajouté le widget, appuyez de manière prolongée pour le modifier et sélectionnez un autre raccourci.";
+"TodayWidget.QuickActionGalleryDescription" = "Ajoutez un raccourci Portal à votre écran d’accueil. Après avoir ajouté le widget, appuyez de manière prolongée pour le modifier et sélectionnez un autre raccourci.";
 
 /* Quick Actions title when widget enters edit mode */
 "TodayWidget.QuickActionsGalleryTitle" = "Actions rapides";
 
-/* Firefox shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
+/* Portal shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
 "TodayWidget.QuickActionsGalleryTitleV2" = "Raccourcis Firefox";
 
 /* Description for Quick View widget in Gallery View where user can add it to home screen */
@@ -43,18 +43,18 @@
 /* Title for Quick View widget in Gallery View where user can add it to home screen */
 "TodayWidget.QuickViewGalleryTitle" = "Aperçu rapide";
 
-/* Search in Firefox. Do not translate the word Firefox */
+/* Search in Firefox. Do not translate the word Portal */
 "TodayWidget.SearchInFirefoxV2" = "Rechercher dans Firefox";
 
 /* Search in private tab */
 "TodayWidget.SearchInPrivateTabLabelV2" = "Rechercher dans un onglet privé";
 
-/* Description for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Description for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryDescription" = "Ajoutez des raccourcis vers des sites fréquemment et récemment visités.";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitle" = "Sites principaux";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitleV2" = "Raccourcis de sites web";
 

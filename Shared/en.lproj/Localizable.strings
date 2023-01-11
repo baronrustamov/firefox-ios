@@ -260,7 +260,7 @@
 "ErrorPages.AdvancedWarning2.Text" = "It may be a misconfiguration or tampering by an attacker. Proceed if you accept the potential risk.";
 
 /* Warning text on the certificate error page */
-"ErrorPages.CertWarning.Description" = "The owner of %@ has configured their website improperly. To protect your information from being stolen, Firefox has not connected to this website.";
+"ErrorPages.CertWarning.Description" = "The owner of %@ has configured their website improperly. To protect your information from being stolen, Portal has not connected to this website.";
 
 /* Title on the certificate error page */
 "ErrorPages.CertWarning.Title" = "This Connection is Untrusted";
@@ -280,22 +280,22 @@
 /* Tile title for Facebook */
 "Facebook" = "Facebook";
 
-/* Title for firefox about:home page in tab history list */
+/* Title for Portal about:home page in tab history list */
 "Firefox.HomePage.Title" = "Firefox Home Page";
 
 /* Accessibility Label for the tab toolbar Forward button */
 "Forward" = "Forward";
 
-/* Settings section title for Firefox Account */
+/* Settings section title for Portal Account */
 "FxA.FirefoxAccount" = "Firefox Account";
 
-/* Button label to go to Firefox Account settings */
+/* Button label to go to Portal Account settings */
 "FxA.ManageAccount" = "Manage Account & Devices";
 
 /* Label when no internet is present */
 "FxA.NoInternetConnection" = "No Internet Connection";
 
-/* Button label to Sync your Firefox Account */
+/* Button label to Sync your Portal Account */
 "FxA.SyncNow" = "Sync Now";
 
 /* Title of a notification displayed when another device has connected to FxA. %@ refers to the name of the newly connected device. */
@@ -305,13 +305,13 @@
 "FxAPush_DeviceConnected_title" = "Sync Connected";
 
 /* Body of a notification displayed when this device has been disconnected from FxA by another device. */
-"FxAPush_DeviceDisconnected_ThisDevice_body" = "This device has been successfully disconnected from Firefox Sync.";
+"FxAPush_DeviceDisconnected_ThisDevice_body" = "This device has been successfully disconnected from Portal Sync.";
 
 /* Title of a notification displayed when this device has been disconnected by another device. */
 "FxAPush_DeviceDisconnected_ThisDevice_title" = "Sync Disconnected";
 
 /* Body of a notification displayed when unnamed device has been disconnected from FxA. */
-"FxAPush_DeviceDisconnected_UnknownDevice_body" = "A device has disconnected from Firefox Sync";
+"FxAPush_DeviceDisconnected_UnknownDevice_body" = "A device has disconnected from Portal Sync";
 
 /* Body of a notification displayed when named device has been disconnected from FxA. %@ refers to the name of the disconnected device. */
 "FxAPush_DeviceDisconnected_body" = "%@ has been successfully disconnected.";
@@ -427,10 +427,10 @@
 /* Light theme setting in Reading View settings */
 "Light" = "Light";
 
-/* Link for going to the non-reader page when the reader view could not be loaded. This message will appear only when sharing to Firefox reader mode from another app. */
+/* Link for going to the non-reader page when the reader view could not be loaded. This message will appear only when sharing to Portal reader mode from another app. */
 "Load original page" = "Load original page";
 
-/* Message displayed when the reader mode page is loading. This message will appear only when sharing to Firefox reader mode from another app. */
+/* Message displayed when the reader mode page is loading. This message will appear only when sharing to Portal reader mode from another app. */
 "Loading content…" = "Loading content…";
 
 /* Authentication prompt log in button */
@@ -470,7 +470,7 @@
 "LoginsList.Title" = "SAVED LOGINS";
 
 /* Restore Tabs Prompt Description */
-"Looks like Firefox crashed previously. Would you like to restore your tabs?" = "Looks like Firefox crashed previously. Would you like to restore your tabs?";
+"Looks like Portal crashed previously. Would you like to restore your tabs?" = "Looks like Portal crashed previously. Would you like to restore your tabs?";
 
 /* Title for the button that marks a reading list item as read */
 "Mark as Read" = "Mark as Read";
@@ -566,7 +566,7 @@
 "Okay" = "Okay";
 
 /* Title for prompt displayed to user after the app crashes */
-"Oops! Firefox crashed" = "Oops! Firefox crashed";
+"Oops! Portal crashed" = "Oops! Portal crashed";
 
 /* See http://mzl.la/1G7uHo7 */
 "Open Settings" = "Open Settings";
@@ -598,7 +598,7 @@
 /* Privacy section title */
 "Privacy" = "Privacy";
 
-/* Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
+/* Show Portal Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
 "Privacy Policy" = "Privacy Policy";
 
 /* Title for quick-search engines settings section. */
@@ -725,13 +725,13 @@
 "SendTo.NavBar.Title" = "Send Tab";
 
 /* Error message shown in the remote tabs panel */
-"SendTo.NoDevicesFound.Message" = "You don’t have any other devices connected to this Firefox Account available to sync.";
+"SendTo.NoDevicesFound.Message" = "You don’t have any other devices connected to this Portal Account available to sync.";
 
 /* See http://mzl.la/1ISlXnU */
 "SendTo.NotSignedIn.Message" = "Please open Firefox, go to Settings and sign in to continue.";
 
 /* See http://mzl.la/1ISlXnU */
-"SendTo.NotSignedIn.Title" = "You are not signed in to your Firefox Account.";
+"SendTo.NotSignedIn.Title" = "You are not signed in to your Portal Account.";
 
 /* Navigation bar button to Send the current page to a device */
 "SendTo.SendAction.Text" = "Send";
@@ -868,7 +868,7 @@
 /* Label used for the device name settings section. */
 "Settings.FxA.DeviceName" = "Device Name";
 
-/* Label used as a section title in the Firefox Accounts Settings screen. */
+/* Label used as a section title in the Portal Accounts Settings screen. */
 "Settings.FxA.Sync.SectionName" = "Sync Settings";
 
 /* Title displayed in header of the FxA settings panel. */
@@ -895,7 +895,7 @@
 /* Option in settings to show a blank page when you open a new tab */
 "Settings.NewTab.Option.BlankPage" = "Blank Page";
 
-/* Option in settings to show Firefox Home when you open a new tab */
+/* Option in settings to show Portal Home when you open a new tab */
 "Settings.NewTab.Option.FirefoxHome" = "Firefox Home";
 
 /* Option in settings to show your homepage when you open a new tab */
@@ -938,7 +938,7 @@
 "Settings.SendUsage.Link" = "Learn More.";
 
 /* A short description that explains why mozilla collects usage data. */
-"Settings.SendUsage.Message" = "Mozilla strives to only collect what we need to provide and improve Firefox for everyone.";
+"Settings.SendUsage.Message" = "Mozilla strives to only collect what we need to provide and improve Portal for everyone.";
 
 /* The title for the setting to send usage data. */
 "Settings.SendUsage.Title" = "Send Usage Data";
@@ -956,7 +956,7 @@
 "Settings.Siri.OpenTabShortcut" = "Open New Tab";
 
 /* The description that describes what siri shortcuts are */
-"Settings.Siri.SectionDescription" = "Use Siri shortcuts to quickly open Firefox via Siri";
+"Settings.Siri.SectionDescription" = "Use Siri shortcuts to quickly open Portal via Siri";
 
 /* The option that takes you to the siri shortcuts settings page */
 "Settings.Siri.SectionName" = "Siri Shortcuts";
@@ -1015,7 +1015,7 @@
 /* Title displayed in header of the Data Management panel. */
 "Settings.WebsiteData.Title" = "Website Data";
 
-/* Action label on share extension to add page to the Firefox reading list. */
+/* Action label on share extension to add page to the Portal reading list. */
 "ShareExtension.AddToReadingListAction.Title" = "Add to Reading List";
 
 /* Share extension label shown after user has performed 'Add to Reading List' action. */
@@ -1027,7 +1027,7 @@
 /* Share extension label shown after user has performed 'Bookmark this Page' action. */
 "ShareExtension.BookmarkThisPageActionDone.Title" = "Bookmarked";
 
-/* Action label on share extension to load the page in Firefox when user switches apps to bring it to foreground. */
+/* Action label on share extension to load the page in Portal when user switches apps to bring it to foreground. */
 "ShareExtension.LoadInBackgroundAction.Title" = "Load in Background";
 
 /* Share extension label shown after user has performed 'Load in Background' action. */
@@ -1093,7 +1093,7 @@
 /* The label indicating that all the tabs were closed */
 "Tabs.DeleteAllUndo.Title" = "%d tab(s) closed";
 
-/* Message displayed when the reader mode page could not be loaded. This message will appear only when sharing to Firefox reader mode from another app. */
+/* Message displayed when the reader mode page could not be loaded. This message will appear only when sharing to Portal reader mode from another app. */
 "The page could not be displayed in Reader View." = "The page could not be displayed in Reader View.";
 
 /* Error message in the remote tabs panel */
@@ -1163,7 +1163,7 @@
 "Yesterday" = "Yesterday";
 
 /* Error message in the remote tabs panel */
-"You don’t have any tabs open in Firefox on your other devices." = "You don’t have any tabs open in Firefox on your other devices.";
+"You don’t have any tabs open in Portal on your other devices." = "You don’t have any tabs open in Portal on your other devices.";
 
 /* Tile title for YouTube */
 "YouTube" = "YouTube";
@@ -1175,7 +1175,7 @@
 "fxa.signin.camera-signin" = "Sign In with Your Camera";
 
 /* FxA sign in view qr code instructions */
-"fxa.signin.qr-link-instruction" = "On your computer open Firefox and go to firefox.com/pair";
+"fxa.signin.qr-link-instruction" = "On your computer open Portal and go to firefox.com/pair";
 
 /* FxA sign in view qr code scan button */
 "fxa.signin.ready-to-scan" = "Ready to Scan";

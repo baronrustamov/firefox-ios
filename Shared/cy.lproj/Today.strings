@@ -4,7 +4,7 @@
 /* Close Private Tabs */
 "TodayWidget.ClosePrivateTabsLabelV2" = "Cau Tabiau Preifat";
 
-/* Description for medium size widget to add Firefox Shortcut to home screen */
+/* Description for medium size widget to add Portal Shortcut to home screen */
 "TodayWidget.FirefoxShortcutGalleryDescription" = "Ychwanegu llwybrau byr i'ch sgrin Cartref.";
 
 /* Go to link pasted on the clipboard */
@@ -22,19 +22,19 @@
 /* Label that is shown when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.NoOpenTabsLabel" = "Dim tabiau agored";
 
-/* Open Firefox when there are no tabs opened in tab tray i.e. Empty State */
+/* Open Portal when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.OpenFirefoxLabel" = "Agor Firefox";
 
 /* Open New Private Tab button label */
 "TodayWidget.PrivateTabButtonLabelV1" = "Chwilio Preifat";
 
 /* Description for small size widget to add it to home screen */
-"TodayWidget.QuickActionGalleryDescription" = "Ychwanegwch llwybr byr Firefox i'ch sgrin Cartref. Ar ôl ychwanegu'r teclyn, cyffwrdd a dal i'w olygu a dewis llwybr byr gwahanol.";
+"TodayWidget.QuickActionGalleryDescription" = "Ychwanegwch llwybr byr Portal i'ch sgrin Cartref. Ar ôl ychwanegu'r teclyn, cyffwrdd a dal i'w olygu a dewis llwybr byr gwahanol.";
 
 /* Quick Actions title when widget enters edit mode */
 "TodayWidget.QuickActionsGalleryTitle" = "Gweithredoedd Cyflym";
 
-/* Firefox shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
+/* Portal shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
 "TodayWidget.QuickActionsGalleryTitleV2" = "Llwybrau Byr Firefox";
 
 /* Description for Quick View widget in Gallery View where user can add it to home screen */
@@ -43,18 +43,18 @@
 /* Title for Quick View widget in Gallery View where user can add it to home screen */
 "TodayWidget.QuickViewGalleryTitle" = "Golwg Gyflym";
 
-/* Search in Firefox. Do not translate the word Firefox */
+/* Search in Firefox. Do not translate the word Portal */
 "TodayWidget.SearchInFirefoxV2" = "Chwilio yn Firefox";
 
 /* Search in private tab */
 "TodayWidget.SearchInPrivateTabLabelV2" = "Chwilio mewn Tab Preifat";
 
-/* Description for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Description for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryDescription" = "Ychwanegu llwybrau byr i wefannau ymwelwyd â nhw'n aml ac yn ddiweddar.";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitle" = "Hoff Wefannau";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitleV2" = "Llwybrau Byr y Wefan";
 

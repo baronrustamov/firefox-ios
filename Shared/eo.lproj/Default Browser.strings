@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "Igi Firefox via norma retumilo egalas al voĉdono por malfermita, alirebla interreto.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "Igi Portal via norma retumilo egalas al voĉdono por malfermita, alirebla interreto.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "Norme iri al pli bona interreto";
@@ -11,7 +11,7 @@
 "DefaultBrowserCard.Description" = "Aŭtomate malfermi ligilon en retejoj, retpoŝtoj kaj mesaĝoj per Firefox.";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.NextLevel.Description.v108" = "Elektu Firefox kiel vian norman retumilon por aŭtomate havi rapidecon, sekurecon kaj privatecon.";
+"DefaultBrowserCard.NextLevel.Description.v108" = "Elektu Portal kiel vian norman retumilon por aŭtomate havi rapidecon, sekurecon kaj privatecon.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Title.v108" = "Plibonigu vian ĉiutagan retumon";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Norma retumila programo";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Igi retumilon norma";
 

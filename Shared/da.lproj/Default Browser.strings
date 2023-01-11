@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "At gøre Firefox til din standard-browser er en stemme for et åbent og tilgængeligt internet.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "At gøre Portal til din standard-browser er en stemme for et åbent og tilgængeligt internet.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "Standard for et bedre internet";
@@ -11,7 +11,7 @@
 "DefaultBrowserCard.Description" = "Indstil links fra websteder, mails og beskeder til automatisk at blive åbnet i Firefox.";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.NextLevel.Description.v108" = "Vælg Firefox som din standard-browser for automatisk at få hastighed, sikkerhed og beskyttelse af dit privatliv.";
+"DefaultBrowserCard.NextLevel.Description.v108" = "Vælg Portal som din standard-browser for automatisk at få hastighed, sikkerhed og beskyttelse af dit privatliv.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Title.v108" = "Bedre daglig browsing";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Standardapp til browsing";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Angiv som standardbrowser";
 

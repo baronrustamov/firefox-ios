@@ -4,7 +4,7 @@
 /* Close Private Tabs */
 "TodayWidget.ClosePrivateTabsLabelV2" = "Zapri zasebne zavihke";
 
-/* Description for medium size widget to add Firefox Shortcut to home screen */
+/* Description for medium size widget to add Portal Shortcut to home screen */
 "TodayWidget.FirefoxShortcutGalleryDescription" = "Dodajte Firefoxove bližnjice na domač zaslon.";
 
 /* Go to link pasted on the clipboard */
@@ -22,7 +22,7 @@
 /* Label that is shown when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.NoOpenTabsLabel" = "Ni odprtih zavihkov.";
 
-/* Open Firefox when there are no tabs opened in tab tray i.e. Empty State */
+/* Open Portal when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.OpenFirefoxLabel" = "Odpri Firefox";
 
 /* Open New Private Tab button label */
@@ -34,7 +34,7 @@
 /* Quick Actions title when widget enters edit mode */
 "TodayWidget.QuickActionsGalleryTitle" = "Hitra dejanja";
 
-/* Firefox shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
+/* Portal shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
 "TodayWidget.QuickActionsGalleryTitleV2" = "Bližnjice za Firefox";
 
 /* Description for Quick View widget in Gallery View where user can add it to home screen */
@@ -43,18 +43,18 @@
 /* Title for Quick View widget in Gallery View where user can add it to home screen */
 "TodayWidget.QuickViewGalleryTitle" = "Hitri pogled";
 
-/* Search in Firefox. Do not translate the word Firefox */
+/* Search in Firefox. Do not translate the word Portal */
 "TodayWidget.SearchInFirefoxV2" = "Išči v Firefoxu";
 
 /* Search in private tab */
 "TodayWidget.SearchInPrivateTabLabelV2" = "Išči v zasebnem zavihku";
 
-/* Description for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Description for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryDescription" = "Dodajte bližnjice do pogosto in nedavno obiskanih spletnih mest.";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitle" = "Glavne strani";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitleV2" = "Bližnjice do spletnih mest";
 

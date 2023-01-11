@@ -4,7 +4,7 @@
 /* Close Private Tabs */
 "TodayWidget.ClosePrivateTabsLabelV2" = "Užverti privačiąsias korteles";
 
-/* Description for medium size widget to add Firefox Shortcut to home screen */
+/* Description for medium size widget to add Portal Shortcut to home screen */
 "TodayWidget.FirefoxShortcutGalleryDescription" = "Pridėkite „Firefox“ leistukų į savo pradžios ekraną.";
 
 /* Go to link pasted on the clipboard */
@@ -22,7 +22,7 @@
 /* Label that is shown when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.NoOpenTabsLabel" = "Nėra atvertų kortelių.";
 
-/* Open Firefox when there are no tabs opened in tab tray i.e. Empty State */
+/* Open Portal when there are no tabs opened in tab tray i.e. Empty State */
 "TodayWidget.OpenFirefoxLabel" = "Atverti „Firefox“";
 
 /* Open New Private Tab button label */
@@ -34,7 +34,7 @@
 /* Quick Actions title when widget enters edit mode */
 "TodayWidget.QuickActionsGalleryTitle" = "Spartieji veiksmai";
 
-/* Firefox shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
+/* Portal shortcuts title when widget enters edit mode. Do not translate the word Firefox. */
 "TodayWidget.QuickActionsGalleryTitleV2" = "„Firefox“ leistukai";
 
 /* Description for Quick View widget in Gallery View where user can add it to home screen */
@@ -43,18 +43,18 @@
 /* Title for Quick View widget in Gallery View where user can add it to home screen */
 "TodayWidget.QuickViewGalleryTitle" = "Sparti peržiūra";
 
-/* Search in Firefox. Do not translate the word Firefox */
+/* Search in Firefox. Do not translate the word Portal */
 "TodayWidget.SearchInFirefoxV2" = "Ieškoti per „Firefox“";
 
 /* Search in private tab */
 "TodayWidget.SearchInPrivateTabLabelV2" = "Atverti privačiojoje kortelėje";
 
-/* Description for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Description for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryDescription" = "Pridėkite leistukų į dažnas ir paskiausias lankytas svetaines.";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitle" = "Lankomiausios svetainės";
 
-/* Title for top sites widget to add Firefox top sites shotcuts to home screen */
+/* Title for top sites widget to add Portal top sites shotcuts to home screen */
 "TodayWidget.TopSitesGalleryTitleV2" = "Svetainių leistukai";
 

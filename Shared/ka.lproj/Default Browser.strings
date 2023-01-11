@@ -11,7 +11,7 @@
 "DefaultBrowserCard.Description" = "შედეგად ბმულებს საიტებიდან, ელფოსტიდან, წერილებიდან, პირდაპირ გახსნის Firefox.";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.NextLevel.Description.v108" = "აირჩიეთ Firefox ნაგულისხმევ ბრაუზერად თავისთავადი სიჩქარის, უსაფრთხოებისა და პირადულობისთვის.";
+"DefaultBrowserCard.NextLevel.Description.v108" = "აირჩიეთ Portal ნაგულისხმევ ბრაუზერად თავისთავადი სიჩქარის, უსაფრთხოებისა და პირადულობისთვის.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Title.v108" = "შეუფერხებელი ინტერნეტმოგზაურობა";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "ნაგულისხმევი ბრაუზერი";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "ნაგულისხმევ ბრაუზერად მითითება";
 

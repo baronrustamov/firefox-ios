@@ -2,7 +2,7 @@
 "DefaultBrowserCard.Button.v2" = "Vaata juhendit";
 
 /* Description for small home tab banner shown that allows user to switch their default browser to Firefox. */
-"DefaultBrowserCard.Description" = "Määra Firefox automaatselt avama linke, e-posti ja sõnumeid.";
+"DefaultBrowserCard.Description" = "Määra Portal automaatselt avama linke, e-posti ja sõnumeid.";
 
 /* Title for small home tab banner shown that allows user to switch their default browser to Firefox. */
 "DefaultBrowserCard.Title" = "Vaikebrauseri vahetamine";
@@ -22,6 +22,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Default Browser App";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Määra vaikebrauseriks";
 

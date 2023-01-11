@@ -35,11 +35,11 @@
 "DefaultBrowserOnboarding.Description2" = "2. 기본 브라우저 앱을 탭";
 
 /* Description for default browser onboarding card. */
-"DefaultBrowserOnboarding.Description3" = "3. Firefox 선택";
+"DefaultBrowserOnboarding.Description3" = "3. Portal 선택";
 
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "기본 브라우저 앱";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "기본 브라우저로 지정";
 

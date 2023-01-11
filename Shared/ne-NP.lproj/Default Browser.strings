@@ -17,11 +17,11 @@
 "DefaultBrowserOnboarding.Description2" = "2। पूर्वनिर्धारित ब्राउजर एपमा ट्याप गर्नुहोस्";
 
 /* Description for default browser onboarding card. */
-"DefaultBrowserOnboarding.Description3" = "3। Firefox लाई चयन गर्नुहोस्";
+"DefaultBrowserOnboarding.Description3" = "3। Portal लाई चयन गर्नुहोस्";
 
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "पूर्वनिर्धारित ब्राउजर एप";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "पूर्वनिर्धारित ब्राउजरको रूपमा सेट गर्नुहोस्";
 

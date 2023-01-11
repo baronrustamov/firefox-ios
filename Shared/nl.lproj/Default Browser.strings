@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "Van Firefox uw standaardbrowser maken is een stem voor een open, toegankelijk internet.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "Van Portal uw standaardbrowser maken is een stem voor een open, toegankelijk internet.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "Maak een beter internet uw standaard";
@@ -8,10 +8,10 @@
 "DefaultBrowserCard.Button.v2" = "Meer info";
 
 /* Description for small home tab banner shown that allows user to switch their default browser to Firefox. */
-"DefaultBrowserCard.Description" = "Koppelingen van websites, e-mail en berichten automatisch in Firefox openen.";
+"DefaultBrowserCard.Description" = "Koppelingen van websites, e-mail en berichten automatisch in Portal openen.";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.NextLevel.Description.v108" = "Kies Firefox als uw standaardbrowser om snelheid, veiligheid en privacy automatisch te maken.";
+"DefaultBrowserCard.NextLevel.Description.v108" = "Kies Portal als uw standaardbrowser om snelheid, veiligheid en privacy automatisch te maken.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Title.v108" = "Breng uw dagelijkse surfen naar een hoger niveau";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Standaard browser-app";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Als standaardbrowser instellen";
 

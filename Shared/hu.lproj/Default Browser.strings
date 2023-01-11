@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "A Firefox alapértelmezett böngészővé tétele egy szavazat a nyílt és hozzáférhető internet mellett.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "A Portal alapértelmezett böngészővé tétele egy szavazat a nyílt és hozzáférhető internet mellett.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "Jobb internet, alapértelmezetten";
@@ -17,7 +17,7 @@
 "DefaultBrowserCard.NextLevel.Title.v108" = "Emelje új szintre a mindennapi böngészést";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.PeaceOfMind.Description.v108" = "A Firefox átlagosan több mint 3000 nyomkövetőt blokkol felhasználónként minden hónapban. Tegyen minket az alapértelmezett böngészővé, hogy nyugodt legyen az adatvédelme felől.";
+"DefaultBrowserCard.PeaceOfMind.Description.v108" = "A Portal átlagosan több mint 3000 nyomkövetőt blokkol felhasználónként minden hónapban. Tegyen minket az alapértelmezett böngészővé, hogy nyugodt legyen az adatvédelme felől.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.PeaceOfMind.Title.v108" = "Bízza a Firefoxra az adatvédelmet";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Alapértelmezett böngésző";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Beállítás alapértelmezett böngészőként";
 

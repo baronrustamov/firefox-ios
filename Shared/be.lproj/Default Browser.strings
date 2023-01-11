@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "Зрабіўшы Firefox прадвызначаным браўзерам, вы галасуеце за адкрыты, даступны Інтэрнэт.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "Зрабіўшы Portal прадвызначаным браўзерам, вы галасуеце за адкрыты, даступны Інтэрнэт.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "Перайдзіце да лепшага Інтэрнэту";
@@ -11,7 +11,7 @@
 "DefaultBrowserCard.Description" = "Наладзьце аўтаматычнае адкрыццё спасылак з сайтаў, пошты і паведамленняў у Firefox.";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.NextLevel.Description.v108" = "Выберыце Firefox у якасці прадвызначанага браўзера, каб хуткасць, бяспека і прыватнасць сталі аўтаматычнымі.";
+"DefaultBrowserCard.NextLevel.Description.v108" = "Выберыце Portal у якасці прадвызначанага браўзера, каб хуткасць, бяспека і прыватнасць сталі аўтаматычнымі.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Title.v108" = "Палепшыце штодзённае вэб-агляданне";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Default Browser App";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Зрабіць прадвызначаным браўзерам";
 

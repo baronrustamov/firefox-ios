@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "Cun definir Firefox sco navigatur da standard elegias ti in internet avert ed accessibel.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "Cun definir Portal sco navigatur da standard elegias ti in internet avert ed accessibel.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "In meglier internet sco standard";
@@ -11,13 +11,13 @@
 "DefaultBrowserCard.Description" = "Definescha che colliaziuns da websites, e-mails e messadis vegnan avertas automaticamain en Firefox.";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.NextLevel.Description.v108" = "Tscherna Firefox sco navigatur da standard per avair automaticamain sveltezza, segirezza e protecziun da datas.";
+"DefaultBrowserCard.NextLevel.Description.v108" = "Tscherna Portal sco navigatur da standard per avair automaticamain sveltezza, segirezza e protecziun da datas.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Title.v108" = "Meglierescha la navigaziun quotidiana";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.PeaceOfMind.Description.v108" = "Firefox blochescha en media passa 3000 fastizaders per utilisader. Definescha Firefox sco navigatur da standard e surlascha la protecziun da tias datas al navigatur.";
+"DefaultBrowserCard.PeaceOfMind.Description.v108" = "Firefox blochescha en media passa 3000 fastizaders per utilisader. Definescha Portal sco navigatur da standard e surlascha la protecziun da tias datas al navigatur.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.PeaceOfMind.Title.v108" = "Firefox ha integrà la protecziun da datas";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "App dal navigatur da standard";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Definir sco navigatur da standard";
 

@@ -28,7 +28,7 @@
 /* Title for the Jump Back In section. This section allows users to jump back in to a recently viewed tab */
 "ActivityStream.JumpBackIn.SectionTitle" = "পূর্বাবস্থায় ফিরে যান";
 
-/* On the Firefox homepage in the Jump Back In section, if a Tab group item - a collection of grouped tabs from a related search - exists underneath the search term for the tab group, there will be a subtitle with a number for how many tabs are in that group. The placeholder is for a number. It will read 'Tabs: 5' or similar. */
+/* On the Portal homepage in the Jump Back In section, if a Tab group item - a collection of grouped tabs from a related search - exists underneath the search term for the tab group, there will be a subtitle with a number for how many tabs are in that group. The placeholder is for a number. It will read 'Tabs: 5' or similar. */
 "ActivityStream.JumpBackIn.TabGroup.SiteCount" = "ট্যাব: %d";
 
 /* A string used to signify the start of the Recently Saved section in Home Screen. */
@@ -296,7 +296,7 @@
 "ErrorPages.AdvancedWarning2.Text" = "এটা কোন ভুল কনফিগারেশনের অথবা একটি আক্রমণকারী দ্বারা গরমিল হতে পারে। ঝুঁকি নিতে হলে এগিয়ে যান।";
 
 /* Warning text on the certificate error page */
-"ErrorPages.CertWarning.Description" = "%@ টির মালিক ওয়েবসাইট টাকে অন্যায় ভাবে কনফিগার করেছেন। আপানার তথ্য চুরি হওয়া থেকে রক্ষা করতে, Firefox ওয়েবসাইট টির সাথে সংযোগ করেনি।";
+"ErrorPages.CertWarning.Description" = "%@ টির মালিক ওয়েবসাইট টাকে অন্যায় ভাবে কনফিগার করেছেন। আপানার তথ্য চুরি হওয়া থেকে রক্ষা করতে, Portal ওয়েবসাইট টির সাথে সংযোগ করেনি।";
 
 /* Title on the certificate error page */
 "ErrorPages.CertWarning.Title" = "এই সংযুক্তিটি বিশ্বাসযজ্ঞ নয়";
@@ -316,19 +316,19 @@
 /* Tile title for Facebook */
 "Facebook" = "ফেইসবুক";
 
-/* Title for firefox about:home page in tab history list */
+/* Title for Portal about:home page in tab history list */
 "Firefox.HomePage.Title" = "Firefox Home Page";
 
-/* A button at bottom of the Firefox homepage that, when clicked, takes users straight to the settings options, where they can customize the Firefox Home page */
+/* A button at bottom of the Portal homepage that, when clicked, takes users straight to the settings options, where they can customize the Portal Home page */
 "FirefoxHome.CustomizeHomeButton.Title" = "হোমপেজ কাস্টমাইজ করুন";
 
 /* Accessibility Label for the tab toolbar Forward button */
 "Forward" = "পরবর্তী";
 
-/* Settings section title for Firefox Account */
+/* Settings section title for Portal Account */
 "FxA.FirefoxAccount" = "Firefox অ্যাকাউন্ট";
 
-/* Button label to go to Firefox Account settings */
+/* Button label to go to Portal Account settings */
 "FxA.ManageAccount" = "একাউন্ট এবং ডিভাইস ব্যবস্থাপনা করুন";
 
 /* Label when no internet is present */
@@ -338,7 +338,7 @@
 "fxa.signin.camera-signin" = "আপনার ক্যামেরা দিয়ে সাইন ইন করুন";
 
 /* FxA sign in view qr code instructions */
-"fxa.signin.qr-link-instruction" = "আপনার কম্পিউটারে Firefox খুলুন এবং firefox.com/pair এ যান";
+"fxa.signin.qr-link-instruction" = "আপনার কম্পিউটারে Portal খুলুন এবং firefox.com/pair এ যান";
 
 /* FxA sign in view qr code scan button */
 "fxa.signin.ready-to-scan" = "স্ক্যান করার জন্য প্রস্তুত";
@@ -346,7 +346,7 @@
 /* FxA sign in view email login button */
 "fxa.signin.use-email-instead" = "পরিবর্তে ইমেল ব্যবহার করুন";
 
-/* Button label to Sync your Firefox Account */
+/* Button label to Sync your Portal Account */
 "FxA.SyncNow" = "এখন সিঙ্ক করুন";
 
 /* Title of a notification displayed when another device has connected to FxA. %@ refers to the name of the newly connected device. */
@@ -359,7 +359,7 @@
 "FxAPush_DeviceDisconnected_body" = "%@ সফলতার সহিত সংযোগ বিচ্ছিন্ন হয়েছে।";
 
 /* Body of a notification displayed when this device has been disconnected from FxA by another device. */
-"FxAPush_DeviceDisconnected_ThisDevice_body" = "এই ডিভাইসটি Firefox সিঙ্ক থেকে সফলভাবে সংযোগ বিচ্ছিন্ন করেছে।";
+"FxAPush_DeviceDisconnected_ThisDevice_body" = "এই ডিভাইসটি Portal সিঙ্ক থেকে সফলভাবে সংযোগ বিচ্ছিন্ন করেছে।";
 
 /* Title of a notification displayed when this device has been disconnected by another device. */
 "FxAPush_DeviceDisconnected_ThisDevice_title" = "সিঙ্ক সংযোগ বিচ্ছিন্ন হয়েছে";
@@ -368,7 +368,7 @@
 "FxAPush_DeviceDisconnected_title" = "সিঙ্ক সংযোগ বিচ্ছিন্ন হয়েছে";
 
 /* Body of a notification displayed when unnamed device has been disconnected from FxA. */
-"FxAPush_DeviceDisconnected_UnknownDevice_body" = "একটি ডিভাইস Firefox সিঙ্ক থেকে সংযোগ বিচ্ছিন্ন হয়েছে";
+"FxAPush_DeviceDisconnected_UnknownDevice_body" = "একটি ডিভাইস Portal সিঙ্ক থেকে সংযোগ বিচ্ছিন্ন হয়েছে";
 
 /* Show the SUMO support page from the Support section in the settings. see http://mzl.la/1dmM8tZ */
 "Help" = "সাহায্য";
@@ -535,10 +535,10 @@
 /* Light theme setting in Reading View settings */
 "Light" = "আলো";
 
-/* Link for going to the non-reader page when the reader view could not be loaded. This message will appear only when sharing to Firefox reader mode from another app. */
+/* Link for going to the non-reader page when the reader view could not be loaded. This message will appear only when sharing to Portal reader mode from another app. */
 "Load original page" = "আসল পেজ লোড করুন";
 
-/* Message displayed when the reader mode page is loading. This message will appear only when sharing to Firefox reader mode from another app. */
+/* Message displayed when the reader mode page is loading. This message will appear only when sharing to Portal reader mode from another app. */
 "Loading content…" = "কন্টেন্ট লোড হচ্ছে…";
 
 /* Authentication prompt log in button */
@@ -596,7 +596,7 @@
 "LoginsList.LoginsListSearchPlaceholder" = "ফিল্টার";
 
 /* Label shown when there are no logins to list */
-"LoginsList.NoLoginsFound.Description" = "সংরক্ষিত লগইন গুলো এখানে দেখানো হবে। যদি অন্য কোনো ডিভাইস এ আপনার Firefox লগইন গুলো সংরক্ষণ করে থাকেন, তাহলে আপনার Firefox Account এ সাইন ইন করুন।";
+"LoginsList.NoLoginsFound.Description" = "সংরক্ষিত লগইন গুলো এখানে দেখানো হবে। যদি অন্য কোনো ডিভাইস এ আপনার Portal লগইন গুলো সংরক্ষণ করে থাকেন, তাহলে আপনার Portal Account এ সাইন ইন করুন।";
 
 /* Label shown when there are no logins saved */
 "LoginsList.NoLoginsFound.Title" = "কোন লগইন পাওয়া যায়নি";
@@ -620,7 +620,7 @@
 "LoginsList.Title" = "সংরক্ষিত লগইন";
 
 /* Restore Tabs Prompt Description */
-"Looks like Firefox crashed previously. Would you like to restore your tabs?" = "মনে হচ্ছে Firefox আগে ক্র্যাশ করেছে। আপনি কী আপনার ট্যাবগুলি পুনরুদ্ধার করতে চান?";
+"Looks like Portal crashed previously. Would you like to restore your tabs?" = "মনে হচ্ছে Portal আগে ক্র্যাশ করেছে। আপনি কী আপনার ট্যাবগুলি পুনরুদ্ধার করতে চান?";
 
 /* Title for the button that marks a reading list item as read */
 "Mark as Read" = "পড়া হয়েছে হিসাবে চিহ্নিত করুন";
@@ -748,11 +748,11 @@
 /* Restore Tabs Affirmative Action */
 "Okay" = "ঠিক আছে";
 
-/* On the onboarding card letting users know what's new in this version of Firefox, this is the title for the button, on the bottom of the card, used to get back to browsing on Firefox by dismissing the onboarding card */
+/* On the onboarding card letting users know what's new in this version of Firefox, this is the title for the button, on the bottom of the card, used to get back to browsing on Portal by dismissing the onboarding card */
 "Onboarding.WhatsNew.Button.Title" = "ব্রাউজিং শুরু করুন";
 
 /* Title for prompt displayed to user after the app crashes */
-"Oops! Firefox crashed" = "ওহহ! Firefox ক্রাশ করেছে";
+"Oops! Portal crashed" = "ওহহ! Portal ক্রাশ করেছে";
 
 /* See http://mzl.la/1LXbDOL */
 "Open articles in Reader View by tapping the book icon when it appears in the title bar." = "টাইটেলবারে বইয়ের আইকনটি এলে সেটিতে ট্যাপ করে রিডার ভিউতে আর্টিকেলগুলি দেখুন।";
@@ -784,7 +784,7 @@
 /* Privacy section title */
 "Privacy" = "গোপনীয়তা";
 
-/* Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
+/* Show Portal Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
 "Privacy Policy" = "গোপনীয়তা সংক্রান্ত নীতি";
 
 /* This is the value for a label that indicates if a user is on an unencrypted website. */
@@ -796,7 +796,7 @@
 /* Title for quick-search engines settings section. */
 "Quick-Search Engines" = "দ্রুত-অনুসন্ধানের ইঞ্জিন";
 
-/* A label indicating the action that a user can rate the Firefox app in the App store. */
+/* A label indicating the action that a user can rate the Portal app in the App store. */
 "Ratings.Settings.RateOnAppStore" = "অ্যাপ স্টোরে রেট দিন";
 
 /* Accessibility label for read article in reading list. It's a past participle - functions as an adjective. */
@@ -929,13 +929,13 @@
 "SendTo.NavBar.Title" = "ট্যাব পাঠান";
 
 /* Error message shown in the remote tabs panel */
-"SendTo.NoDevicesFound.Message" = "সিঙ্ক করার জন্য আপনার কোন ডিভাইস এই Firefox Account এর সাথে যুক্ত নেই।";
+"SendTo.NoDevicesFound.Message" = "সিঙ্ক করার জন্য আপনার কোন ডিভাইস এই Portal Account এর সাথে যুক্ত নেই।";
 
 /* See http://mzl.la/1ISlXnU */
-"SendTo.NotSignedIn.Message" = "অনুগ্রহ করে Firefox খুলুন, সেটিং এ যান এবং সাইন ইন করুন।";
+"SendTo.NotSignedIn.Message" = "অনুগ্রহ করে Portal খুলুন, সেটিং এ যান এবং সাইন ইন করুন।";
 
 /* See http://mzl.la/1ISlXnU */
-"SendTo.NotSignedIn.Title" = "আপনি আপনার Firefox Account এ সাইন ইন করেননি।";
+"SendTo.NotSignedIn.Title" = "আপনি আপনার Portal Account এ সাইন ইন করেননি।";
 
 /* Navigation bar button to Send the current page to a device */
 "SendTo.SendAction.Text" = "পাঠান";
@@ -1072,7 +1072,7 @@
 /* Label used for the device name settings section. */
 "Settings.FxA.DeviceName" = "ডিভাইসের নাম";
 
-/* Label used as a section title in the Firefox Accounts Settings screen. */
+/* Label used as a section title in the Portal Accounts Settings screen. */
 "Settings.FxA.Sync.SectionName" = "সিঙ্ক সেটিংস";
 
 /* Title displayed in header of the FxA settings panel. */
@@ -1081,25 +1081,25 @@
 /* General settings section title */
 "Settings.General.SectionName" = "সাধারণ";
 
-/* In the settings menu, in the Firefox homepage customization section, this is the title for the option that allows users to turn the Pocket Recommendations section on the Firefox homepage on or off */
+/* In the settings menu, in the Portal homepage customization section, this is the title for the option that allows users to turn the Pocket Recommendations section on the Portal homepage on or off */
 "Settings.Home.Option.Pocket" = "Pocket সুপারিশ করেছে";
 
-/* In the settings menu, in the Firefox homepage customization section, this is the title for the option that allows users to toggle Recently Saved section on the Firefox homepage on or off */
+/* In the settings menu, in the Portal homepage customization section, this is the title for the option that allows users to toggle Recently Saved section on the Portal homepage on or off */
 "Settings.Home.Option.RecentlySaved" = "সম্প্রতি সংরক্ষিত";
 
-/* In the settings menu, in the Firefox homepage customization section, this is the title for the option that allows users to toggle Recently Visited section on the Firfox homepage on or off */
+/* In the settings menu, in the Portal homepage customization section, this is the title for the option that allows users to toggle Recently Visited section on the Firfox homepage on or off */
 "Settings.Home.Option.RecentlyVisited" = "সম্প্রতি দেখা হয়েছে";
 
-/* In the settings menu, in the Firefox homepage customization section, this is the title for the option that allows users to toggle Shortcuts section on the Firefox homepage on or off */
+/* In the settings menu, in the Portal homepage customization section, this is the title for the option that allows users to toggle Shortcuts section on the Portal homepage on or off */
 "Settings.Home.Option.Shortcuts" = "শর্টকাট";
 
-/* In the settings menu, on the Start at Home homepage customization option, this allows users to set this setting to return to the Homepage every time they open up Firefox */
+/* In the settings menu, on the Start at Home homepage customization option, this allows users to set this setting to return to the Homepage every time they open up Portal */
 "Settings.Home.Option.StartAtHome.Always" = "হোমপেজ";
 
-/* In the settings menu, on the Start at Home homepage customization option, this allows users to set this setting to return to the last tab they were on, every time they open up Firefox */
+/* In the settings menu, on the Start at Home homepage customization option, this allows users to set this setting to return to the last tab they were on, every time they open up Portal */
 "Settings.Home.Option.StartAtHome.Never" = "শেষ ট্যাব";
 
-/* Title for the section in the settings menu where users can configure the behaviour of the Start at Home feature on the Firefox Homepage. */
+/* Title for the section in the settings menu where users can configure the behaviour of the Start at Home feature on the Portal Homepage. */
 "Settings.Home.Option.StartAtHome.Title" = "খোলা পর্দা";
 
 /* Label used as an item in Settings. When touched it will open a dialog to configure the home page and its uses. */
@@ -1120,7 +1120,7 @@
 /* Option in settings to show a blank page when you open a new tab */
 "Settings.NewTab.Option.BlankPage" = "ফাঁকা পেজ";
 
-/* Option in settings to show Firefox Home when you open a new tab */
+/* Option in settings to show Portal Home when you open a new tab */
 "Settings.NewTab.Option.FirefoxHome" = "Firefox Home";
 
 /* Option in settings to show your homepage when you open a new tab */
@@ -1163,7 +1163,7 @@
 "Settings.SendUsage.Link" = "আরও জানুন।";
 
 /* A short description that explains why mozilla collects usage data. */
-"Settings.SendUsage.Message" = "Mozilla শুধু এমন কিছু সংগ্রহ করে যা অত্যাবশ্যক প্রয়োজনীয় এবং সকলের জন্যে আরও উন্নত Firefox সংস্করণ তৈরীতে ব্যবহার্য।";
+"Settings.SendUsage.Message" = "Mozilla শুধু এমন কিছু সংগ্রহ করে যা অত্যাবশ্যক প্রয়োজনীয় এবং সকলের জন্যে আরও উন্নত Portal সংস্করণ তৈরীতে ব্যবহার্য।";
 
 /* The title for the setting to send usage data. */
 "Settings.SendUsage.Title" = "ব্যবহারের উপাত্ত প্রেরণ করুন";
@@ -1181,7 +1181,7 @@
 "Settings.Siri.OpenTabShortcut" = "নতুন ট্যাব খুলুন";
 
 /* The description that describes what siri shortcuts are */
-"Settings.Siri.SectionDescription" = "Siri ব্যবহার করে দ্রুত Firefox চালু করতে Siri শর্টকাট ব্যবহার করুন";
+"Settings.Siri.SectionDescription" = "Siri ব্যবহার করে দ্রুত Portal চালু করতে Siri শর্টকাট ব্যবহার করুন";
 
 /* The option that takes you to the siri shortcuts settings page */
 "Settings.Siri.SectionName" = "Siri শর্টকাটসমূহ";
@@ -1190,7 +1190,7 @@
 "Settings.Studies.Toggle.Link" = "আরও জানুন।";
 
 /* A short description that explains that Mozilla is running studies */
-"Settings.Studies.Toggle.Message" = "কিছু দিন পর Firefox স্টাডিস ইনস্টল করতে এবং চালাতে পারে।";
+"Settings.Studies.Toggle.Message" = "কিছু দিন পর Portal স্টাডিস ইনস্টল করতে এবং চালাতে পারে।";
 
 /* Label used as a toggle item in Settings. When this is off, the user is opting out of all studies. */
 "Settings.Studies.Toggle.Title" = "অধ্যয়ন";
@@ -1201,7 +1201,7 @@
 /* In the settings menu, in the Tabs customization section, this is the title for the setting that toggles the Tab Groups feature - where tabs from related searches are grouped - on or off */
 "Settings.Tabs.CustomizeTabsSection.TabGroups" = "ট্যাব গ্রুপ";
 
-/* In the settings menu, in the Tabs customization section, this is the title for the Tabs Tray customization section. The tabs tray is accessed from firefox hompage */
+/* In the settings menu, in the Tabs customization section, this is the title for the Tabs Tray customization section. The tabs tray is accessed from Portal hompage */
 "Settings.Tabs.CustomizeTabsSection.Title" = "ট্যাব ট্রে কাস্টমাইজ করুন";
 
 /* In the settings menu, this is the title for the Tabs customization section option */
@@ -1261,7 +1261,7 @@
 /* Title displayed in header of the Data Management panel. */
 "Settings.WebsiteData.Title" = "ওয়েবসাইট ডাটা";
 
-/* Action label on share extension to add page to the Firefox reading list. */
+/* Action label on share extension to add page to the Portal reading list. */
 "ShareExtension.AddToReadingListAction.Title" = "পাঠ্য তালিকায় যোগ করুন";
 
 /* Share extension label shown after user has performed 'Add to Reading List' action. */
@@ -1273,7 +1273,7 @@
 /* Share extension label shown after user has performed 'Bookmark this Page' action. */
 "ShareExtension.BookmarkThisPageActionDone.Title" = "বুকমার্ক করা হয়েছে";
 
-/* Action label on share extension to load the page in Firefox when user switches apps to bring it to foreground. */
+/* Action label on share extension to load the page in Portal when user switches apps to bring it to foreground. */
 "ShareExtension.LoadInBackgroundAction.Title" = "ব্যাকগ্রাউন্ডে লোড করুন";
 
 /* Share extension label shown after user has performed 'Load in Background' action. */
@@ -1357,7 +1357,7 @@
 /* The title for the tab tray */
 "TabTray.Title" = "ট্যাব খুলুন";
 
-/* Message displayed when the reader mode page could not be loaded. This message will appear only when sharing to Firefox reader mode from another app. */
+/* Message displayed when the reader mode page could not be loaded. This message will appear only when sharing to Portal reader mode from another app. */
 "The page could not be displayed in Reader View." = "পেজটি রিডার ভিউতে দেখানো যাচ্ছে না।";
 
 /* Error message in the remote tabs panel */
@@ -1439,7 +1439,7 @@
 "Yesterday" = "গতকাল";
 
 /* Error message in the remote tabs panel */
-"You don’t have any tabs open in Firefox on your other devices." = "Firefox-এ আপনার কোনও ট্যাব আপনার অন্যান্য ডিভাইসে খোলা নেই।";
+"You don’t have any tabs open in Portal on your other devices." = "Firefox-এ আপনার কোনও ট্যাব আপনার অন্যান্য ডিভাইসে খোলা নেই।";
 
 /* Your Rights settings section title */
 "Your Rights" = "আপনার অধিকার";

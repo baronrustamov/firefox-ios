@@ -1,5 +1,5 @@
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.BetterInternet.Description.v108" = "Að gera Firefox að sjálfgefnum vafra er sama og greitt atkvæði um opið, aðgengilegt internet.";
+"DefaultBrowserCard.BetterInternet.Description.v108" = "Að gera Portal að sjálfgefnum vafra er sama og greitt atkvæði um opið, aðgengilegt internet.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.BetterInternet.Title.v108" = "Sjálfgefið á betra interneti";
@@ -11,7 +11,7 @@
 "DefaultBrowserCard.Description" = "Stilltu tengla frá vefsvæðum, tölvupósti og skilaboðum til að opna sjálfkrafa í Firefox.";
 
 /* Description for small home tab banner shown that allows the user to switch their default browser to Firefox. */
-"DefaultBrowserCard.NextLevel.Description.v108" = "Veldu Firefox sem sjálfgefinn vafra til að sjálfvirkt njóta hraða, öryggis og næðis.";
+"DefaultBrowserCard.NextLevel.Description.v108" = "Veldu Portal sem sjálfgefinn vafra til að sjálfvirkt njóta hraða, öryggis og næðis.";
 
 /* Title for small home tab banner shown that allows the user to switch their default browser to Firefox. */
 "DefaultBrowserCard.NextLevel.Title.v108" = "Lyftu daglegu vafri á annað stig";
@@ -40,6 +40,6 @@
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "Sjálfgefið vafraforrit";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "Setja sem sjálfgefinn vafra";
 

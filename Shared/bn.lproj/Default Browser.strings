@@ -17,11 +17,11 @@
 "DefaultBrowserOnboarding.Description2" = "2. ডিফল্ট ব্রাউজার অ্যাপ এ ট্যাপ করুন";
 
 /* Description for default browser onboarding card. */
-"DefaultBrowserOnboarding.Description3" = "3. Firefox নির্বাচন করুন";
+"DefaultBrowserOnboarding.Description3" = "3. Portal নির্বাচন করুন";
 
 /* Text for the screenshot of the iOS system settings page for Firefox. */
 "DefaultBrowserOnboarding.Screenshot" = "ডিফল্ট ব্রাউজার অ্যাপ";
 
-/* Menu option for setting Firefox as default browser. */
+/* Menu option for setting Portal as default browser. */
 "Settings.DefaultBrowserMenuItem" = "ডিফল্ট ব্রাউজার হিসাবে সেট করুন";
 
